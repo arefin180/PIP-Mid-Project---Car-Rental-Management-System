@@ -1,0 +1,79 @@
+[
+    {
+        "model": "Toyota Corolla",
+        "year": 2020,
+        "plate": "ABC-1234",
+        "status": "Available",
+        "price_per_day": 45.0
+    },
+    {
+        "model": "Honda Civic",
+        "year": 2021,
+        "plate": "XYZ-5678",
+        "status": "Rented",
+        "price_per_day": 50.0
+    },
+    {
+        "model": "Ford Mustang",
+        "year": 2019,
+        "plate": "MUST-007",
+        "status": "Available",
+        "price_per_day": 85.0
+    },
+    {
+        "model": "Tesla Model 3",
+        "year": 2023,
+        "plate": "EV-9999",
+        "status": "Under Maintenance",
+        "price_per_day": 95.0
+    },
+    {
+        "model": "Chevrolet Camry",
+        "year": 2018,
+        "plate": "CHV-4455",
+        "status": "Available",
+        "price_per_day": 40.0
+    },
+    {
+        "model": "Hyundai Elantra",
+        "year": 2022,
+        "plate": "HYU-3321",
+        "status": "Rented",
+        "price_per_day": 48.0
+    },
+    {
+        "model": "BMW 3 Series",
+        "year": 2021,
+        "plate": "BMW-330I",
+        "status": "Available",
+        "price_per_day": 110.0
+    },
+    {
+        "model": "Audi A4",
+        "year": 2020,
+        "plate": "AUDI-100",
+        "status": "Under Maintenance",
+        "price_per_day": 105.0
+    },
+    {
+        "model": "Nissan Sentra",
+        "year": 2017,
+        "plate": "NIS-8877",
+        "status": "Available",
+        "price_per_day": 35.0
+    },
+    {
+        "model": "Kia Sportage",
+        "year": 2024,
+        "plate": "KIA-2024",
+        "status": "Rented",
+        "price_per_day": 65.0
+    },
+    {
+        "model": "Subaru Outback",
+        "year": 2022,
+        "plate": "SUB-4411",
+        "status": "Available",
+        "price_per_day": 70.0
+    }
+]
